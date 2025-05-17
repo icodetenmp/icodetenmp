@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @icodetenmp
-- 👀 I’m interested in font end programing langauges
+- 👀 I’m interested in font end programing langauges and im a newbie
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any reserch or job that can help develop my skills
 - 📫 How to reach me ..through my gmail icodetenmp@gmail.com
 - 😄 Pronouns: ...male 
-- ⚡ Fun fact: ...God is good lol
+- ⚡ Fun fact: God is good lol
 
 <!---
 icodetenmp/icodetenmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
