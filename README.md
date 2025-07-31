@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icodetenmp
-- 👀 I’m interested in font end programing langauges and im a newbie
+- 👀 I’m interested in front end programing langauges and im a newbie
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any reserch or job that can help develop my skills
 - 📫 How to reach me ..through my gmail icodetenmp@gmail.com
